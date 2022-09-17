@@ -1,0 +1,162 @@
+html, body { 
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+* { margin: 0; }
+
+.aligncenter {
+    text-align: center;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  top: 0;
+  bottom: 0;
+  margin: 0 auto;
+}
+
+.secondpane {
+    color:#05E9FF;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    width: 100%;
+    height: 50%;
+    border: 10px solid;
+    border-color: #5D3FD3;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.languages {
+    color:aliceblue;
+    font-family: "Arial";
+    font-size: 14px;
+    width: 100%;
+    height: 20%;
+    border: 10px solid #1434A4;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    columns: 2;
+    float: left;
+    column-gap: 1em;
+    column-rule: 2px solid black;
+}
+
+.leadership {
+    color:#05E9FF;
+    font-family: "Times New Roman";
+    font-size: 16px;
+    width: 100%;
+    height: 20%;
+    border: 10px solid;
+    border-color: #5D3FD3;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    columns: 2;
+    float: left;
+    column-gap: 1em;
+    column-rule: 2px solid black;
+}
+
+.skills {
+    color:aliceblue;
+    font-family: "Arial";
+    font-size: 14px;
+    width: 100%;
+    height: 20%;
+    border: 10px solid #1434A4;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    columns: 2;
+    float: left;
+    column-gap: 1em;
+    column-rule: 2px solid black;
+}
+
+.toppane {
+    color:aliceblue;
+    font-family: "Arial";
+    width: 100%;
+    height: 10%;
+    padding: 10px;
+    background-color: #0096FF;
+    text-align: center;
+    margin: 0 auto;
+}
+    .btn {
+        width: 10em;
+        height: 5ex;
+        background-color: #05E9FF;
+        border: 2px solid #000033;
+        border-radius: 10px;
+        font-weight: bold;
+        color: black;
+        cursor: pointer;
+        text-decoration:none;
+    }
+    
+    .bottompane {
+        color:aliceblue;
+        font-family: "Arial";
+        width: 100%;
+        height: 10%;
+        padding: 10px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .btn:link {
+        color:black;
+        text-align: right;
+    }
+
+    .btn:visited {
+        color:darkblue;
+        text-decoration:none;
+    }
+
+    .btn:hover {
+        background-color: cyan;
+    }
+
+    .contactpage {
+    color:#05E9FF;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    width: 100%;
+    height: 20%;
+    border: 10px solid;
+    border-color: #5D3FD3;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    }
+
+    .contactinfo {
+        color:aliceblue;
+    font-family: "Arial";
+    font-size: 14px;
+    width: 100%;
+    height: 20%;
+    border: 10px solid #1434A4;
+    padding: 25px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    columns: 2;
+    float: left;
+    column-gap: 1em;
+    column-rule: 2px solid black;
+        }
